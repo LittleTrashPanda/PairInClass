@@ -3,5 +3,7 @@ public class Main {
         System.out.println("ARGH!");
 
         System.out.println("Blegh");
+
+        System.out.println("Github is down :(");
     }
 }
